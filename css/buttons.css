@@ -20,8 +20,8 @@
   background-image: url('../images/pause.svg');
 }
 .button#forward {
-  background-image: url('../images/+10.svg');
+  background-image: url('../images/forward.svg');
 }
 .button#back {
-  background-image: url('../images/-10.svg');
+  background-image: url('../images/back.svg');
 }
